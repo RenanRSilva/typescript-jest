@@ -31,7 +31,7 @@ const order = new Order(shoppingCart, messaging, persistency, enterpriseCustomer
 
 
 
-shoppingCart.addItem(new Product('Camiseta', 49))
+shoppingCart.addItem(new Product('Camiseta', 50))
 shoppingCart.addItem(new Product('Lapis', 9))
 shoppingCart.addItem(new Product('Caneta', 10))
 
