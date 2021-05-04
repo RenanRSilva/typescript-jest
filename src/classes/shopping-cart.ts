@@ -1,5 +1,5 @@
 
-import { CartItem } from '../../srp/classes/interfaces/car-item';
+import { CartItem } from './interfaces/cart-item';
 import { Discount } from './discount';
 import { ShoppingCartProtocol } from './interfaces/shopping-cart-protocol';
 
